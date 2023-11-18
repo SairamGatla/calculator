@@ -1,0 +1,8 @@
+{
+  "jcr:primaryType": "kes:UiFramework",
+  "jcr:title": "webappcalculator Framework",
+  "kes:uiFrameworkCode": "webappcalculator-ui",
+  "kes:vendorLibraries": [
+    "webappcalculator-vendor-library"
+  ]
+}
