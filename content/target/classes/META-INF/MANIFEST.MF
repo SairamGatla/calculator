@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1700319273655
+Build-Jdk-Spec: 1.8
+Bundle-Category: org.calculator
+Bundle-Description: calculator
+Bundle-ManifestVersion: 2
+Bundle-Name: webappcalculator - Content Bundle
+Bundle-SymbolicName: com.calculator.webappcalculator.content
+Bundle-Vendor: org.calculator
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Sling-Initial-Content: /content/sites;overwrite:=true;path:=/content/sit
+ es
+Sling-Model-Packages: com.calculator.webappcalculator
+Tool: Bnd-5.1.1.202006162103

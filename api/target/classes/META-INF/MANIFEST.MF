@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1700319259097
+Build-Jdk-Spec: 1.8
+Bundle-Category: org.calculator
+Bundle-Description: calculator
+Bundle-ManifestVersion: 2
+Bundle-Name: webappcalculator - API Bundle
+Bundle-SymbolicName: com.calculator.webappcalculator.api
+Bundle-Vendor: org.calculator
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.calculator.webappcalculator.api.services;uses:="io.k
+ estros.commons.osgiserviceutils.services";version="1.0.0"
+Import-Package: io.kestros.commons.osgiserviceutils.services;version="[0
+ .1,1)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Sling-Model-Packages: com.calculator.webappcalculator
+Tool: Bnd-5.1.1.202006162103

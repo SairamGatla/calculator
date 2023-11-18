@@ -1,0 +1,6 @@
+Bundle-Category=org.calculator
+Export-Package=com.calculator.webappcalculator.*
+Sling-Initial-Content=/content/sites;overwrite:=true;path:=/content/sites
+Sling-Model-Packages=com.calculator.webappcalculator
+_dsannotations=*
+_metatypeannotations=*

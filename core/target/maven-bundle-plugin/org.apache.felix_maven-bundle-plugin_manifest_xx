@@ -1,0 +1,5 @@
+Bundle-Category=org.calculator
+Export-Package=com.calculator.webappcalculator.*
+Sling-Model-Packages=com.calculator.webappcalculator
+_dsannotations=*
+_metatypeannotations=*
